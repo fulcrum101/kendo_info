@@ -18,11 +18,13 @@ def main():
     col1.markdown('''
     - **kendo.lv** mājas lapa [➤](kendo.lv)
     - **@LatvijasKendoFederacija** Facebook [➤](https://www.facebook.com/LatvijasKendoFederacija/)
-    - **@kendo_in_latvia** Instagram [➤](https://www.instagram.com/kendo_in_latvia/)''')
+    - **@kendo_in_latvia** Instagram [➤](https://www.instagram.com/kendo_in_latvia/)
+    - **@KendoInLatvia** YouTube [➤](https://www.youtube.com/@KendoInLatvia)''')
 
     col2.header('Kontakti')
     col2.markdown('''
-    - 👤 **Kontaktpersona:** Vladimirs Kindzulis
+    **Kontaktpersona:** 
+    - 👤 Vladimirs Kindzulis
     - 📞 **Tel. nr:** [+371 29217637](callto:0037129217637)
     - ✉️ **E-pasts:** [kwon@apollo.lv](mailto:kwon@apollo.lv)''')
 
