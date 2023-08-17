@@ -23,8 +23,7 @@ def main():
 
     col2.header('Kontakti')
     col2.markdown('''
-    **Kontaktpersona:** 
-    - 👤 Vladimirs Kindzulis
+    - 👤 **Kontaktpersona:** Vladimirs Kindzulis
     - 📞 **Tel. nr:** [+371 29217637](callto:0037129217637)
     - ✉️ **E-pasts:** [kwon@apollo.lv](mailto:kwon@apollo.lv)''')
 
